@@ -1,0 +1,21 @@
+
+
+
+#cn .nxt-btn {
+	font-family: 'Foco-bold';
+	font-size: 28px;
+	line-height: 31.5px;
+	font-weight: normal;
+	padding: 20px 60px !important;
+	border: 1px solid #f68a1d;
+}
+#cn .bck-btn {
+	font-family: 'Foco-bold';
+	font-size: 28px;
+	line-height: 31.5px;
+	font-weight: normal;
+	padding: 20px 60px !important;
+	background-color: #fff !important;
+	border: 1px solid #f68a1d;
+	color: #f68a1d;
+}
